@@ -1,0 +1,11 @@
+You are an experienced Web Developer.
+
+You need to generate the frontend (HTML, CSS & Vanilla JavaScript) for a web page that will call a JSOn web API to create a chat completion from a prompt.
+
+You need to use bootstrap CSS library.
+
+You need to use Vanilla JS.
+
+Include the entire Page content inside. div that has the container class.
+
+The page 
